@@ -1,6 +1,6 @@
-[submodule "gaga/tests/Catch"]
-	path = gaga/tests/Catch
+[submodule "tests/Catch"]
+	path = tests/Catch
 	url = https://github.com/philsquared/Catch.git
-[submodule "gaga/tests/grgen"]
-	path = gaga/tests/grgen
+[submodule "tests/grgen"]
+	path = tests/grgen
 	url = https://github.com/jdisset/grgen.git
